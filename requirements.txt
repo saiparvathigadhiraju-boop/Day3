@@ -1,1 +1,4 @@
-groq
+pandas
+fastapi
+uvicorn
+pydantic[email]
